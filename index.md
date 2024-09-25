@@ -11,3 +11,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "YEOOOO, LANDO WON SINGAPORE!";
 ```
+- [x] Wake up at 6 AM
+- [x] Watch the F1 Race
+- [ ] Stay Awake the entire Race
